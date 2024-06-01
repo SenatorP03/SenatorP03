@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning python language
 - 💞️ I’m looking to collaborate on python progam or modelling in data science space
 - 📫 How to reach me adeiyeprecious650@gmail.com
-- 😄 Pronouns: ...
 - ⚡ Fun fact: I like to code and jam to music,it helps with procesing thing and ease the tension when the program is "killing you"
 
 <!---
